@@ -16,4 +16,4 @@ I'm Hoang Lam Bao Toan
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hlbaot&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://i.pinimg.com/originals/18/ea/f6/18eaf64423d891cba4a313daf2e88f9e.gif" style="width: 100%; height: 3px; margin: 10px 0;" alt="" />
+<img src="https://i.pinimg.com/originals/18/ea/f6/18eaf64423d891cba4a313daf2e88f9e.gif" width="100%" height="4px" />
