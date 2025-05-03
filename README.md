@@ -1,6 +1,5 @@
-<h1>🌱   I'm Hoang Lam Bao Toan</h1>
+# 🌱 I'm Hoang Lam Bao Toan
 
-<h2>FE Web</h2>
-<ul>
-  <li>Booking Photo: <a>https://booking-photo-five.vercel.app/</a></li>
-</ul>
+## FE Web
+
+- **Booking Photo**: [https://booking-photo-five.vercel.app/](https://booking-photo-five.vercel.app/)
