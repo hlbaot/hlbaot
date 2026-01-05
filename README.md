@@ -3,7 +3,7 @@
 <h3 align="center">📸 Web BookingPhoto (FE)</h3>
 
 <p align="center">
-  Deploy:
+  Source:
    🔗 <a href="https://booking-photo.vercel.app/" target="_blank"><b>Client</b></a> &nbsp; | &nbsp;
   🔗 <a href="https://booking-photo-dashboard.vercel.app/login" target="_blank"><b>Admin</b></a>
 </p>
