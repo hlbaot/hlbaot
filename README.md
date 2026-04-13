@@ -8,5 +8,5 @@
 </p>
 <h3 align="center">Web ShortPro</h3>
 <p align="center">
-   🔗 <a href="https://www.shortpro.vn/" target="_blank"><b>ShortPro</b></a> &nbsp; | &nbsp;
+   🔗 <a href="https://www.shortpro.vn/" target="_blank"><b>ShortPro</b></a> &nbsp;
 </p>
