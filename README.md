@@ -12,6 +12,6 @@
 </p>
 <h3 align="center">Web Tako Ramen</h3>
 <p align="center">
-   🔗 <a href="[https://www.shortpro.vn/](https://ramen-xi.vercel.app/)" target="_blank"><b>Tako Ramen</b></a> &nbsp;
+   🔗 <a href="https://ramen-xi.vercel.app/" target="_blank"><b>Tako Ramen</b></a> &nbsp;
 </p>
 
