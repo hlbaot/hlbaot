@@ -16,7 +16,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<h3>🔤 Ngôn ngữ (Languages)</h3>
+<h3>🔤 Languages</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -71,6 +71,9 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" /><br>Swift
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" /><br>Dart
+    </td>
   </tr>
 </table>
 
@@ -83,7 +86,7 @@
   </tr>
 </table>
 
-<h3>🧰 Công cụ (Tools)</h3>
+<h3>🧰 Tools</h3>
 <table>
   <tr>
     <td align="center" width="96">
