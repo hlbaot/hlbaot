@@ -1,6 +1,14 @@
-<h1 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hi, I'm Hoang Lam Bao Toan  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h2 align="left" id="macropower-tech"> A little more about me...  </h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
+  Hi, I'm Hoang Lam Bao Toan
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
+</h1>
+
+<h3 align="left" id="about-me">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+  A little more about me...
+</h3>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 I'm a Software Engineering student at Duy Tan University with a strong foundation in Frontend Development, skilled in modern web and mobile technologies such as React, Next.js, Vue, Swift, and Android. I enjoy building responsive, high-performance, user-friendly applications with a focus on UI/UX and scalable architecture. I love to explore new technologies and constantly improve my skills in full-stack development.
 
@@ -8,14 +16,16 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 - 💻 Skilled in: C++, Java, C#, JavaScript, React, Next.js, Vue, Swift, Android, MySQL
 - 🌱 Currently improving my full-stack and performance optimization skills
 - 💬 Ask me about React/Next.js, Vue, UI/UX, iOS and Android app development
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+
+<br clear="right"/>
+
+<h3 align="left" id="favorite-tech">Favorite Tech</h3>
 
 > Tools, languages, and other things that I like to work with.
 
-<h3>🔤 Languages</h3>
+<h4>🔤 Languages</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -33,7 +43,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
   </tr>
 </table>
 
-<h3>🎨 Frontend</h3>
+<h4>🎨 Frontend</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -64,7 +74,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
 </p>
 
-<h3>📱 Mobile</h3>
+<h4>📱 Mobile</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -76,7 +86,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
   </tr>
 </table>
 
-<h3>🗄️ Database</h3>
+<h4>🗄️ Database</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -85,7 +95,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
   </tr>
 </table>
 
-<h3>🧰 Tools</h3>
+<h4>🧰 Tools</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -102,5 +112,3 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
     </td>
   </tr>
 </table>
-
-
