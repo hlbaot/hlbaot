@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hi, I'm Hoang Lam Bao Toan  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-### 🧑‍💻 About Me
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 I'm a Software Engineering student at Duy Tan University with a strong foundation in Frontend Development, skilled in modern web and mobile technologies such as React, Next.js, Vue, Swift, and Android. I enjoy building responsive, high-performance, user-friendly applications with a focus on UI/UX and scalable architecture. I love to explore new technologies and constantly improve my skills in full-stack development.
 
@@ -103,5 +103,4 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
   </tr>
 </table>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
