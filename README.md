@@ -84,6 +84,11 @@
     </td>
   </tr>
 </table>
+<p>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" />
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
