@@ -17,11 +17,13 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 - 🌱 Currently improving my full-stack and performance optimization skills
 - 💬 Ask me about React/Next.js, Vue, UI/UX, iOS and Android app development
 
-
 <br clear="right"/>
+<br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-<h3 align="left" id="favorite-tech">Favorite Tech</h3>
+<h3 align="left" id="favorite-tech">
+  Favorite Tech
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+</h3>
 
 > Tools, languages, and other things that I like to work with.
 
