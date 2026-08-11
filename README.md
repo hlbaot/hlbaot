@@ -19,7 +19,9 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 <br clear="right"/>
 <br>
-<hr>
+<h1 align="center">
+
+</h1>
 <h3 align="left" id="favorite-tech">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
   Favorite Tech
