@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> I'm Hoang Lam Bao Toan  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hi, I'm Hoang Lam Bao Toan  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Technical Lead at <a href="#">######
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
