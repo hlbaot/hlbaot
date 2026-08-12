@@ -19,9 +19,9 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 <br clear="right"/>
 <br>
-<h1 align="center">
 
-</h1>
+<h1 align="center"></h1>
+
 <h3 align="left" id="favorite-tech">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
   Favorite Tech
@@ -117,5 +117,11 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
   </tr>
 </table>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<h1 align="center"></h1>
+<h3 align="left" id="favorite-tech">📮 Connect with Me</h3>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hlbaot)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toan-hoang-lam-bao-446b70363/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baotoanit1505@gmail.com)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lambaotoan.hoang?locale=vi_VN)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
