@@ -127,6 +127,83 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 296.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 503 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                348 commits         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+🌆 Daytime                355 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌃 Evening                698 commits         ████████████░░░░░░░░░░░░░   48.88 % 
+🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Tuesday                  220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Wednesday                136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Thursday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   350 commits         ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Saturday                 213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Sunday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               24 repos            █████████████░░░░░░░░░░░░   53.33 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/hlbaot/hlbaot/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/08/2026 11:52:02 UTC
 <!--END_SECTION:waka-->
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
