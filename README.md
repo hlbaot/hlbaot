@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
-  Hi, I'm Hoang Lam Bao Toan
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Toan Hoang Lam Bao 👋 I'm a 🚀 Developer 🚀 ">
+</p>
 </h1>
 
 <h3 align="left" id="about-me">
