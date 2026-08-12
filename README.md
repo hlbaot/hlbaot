@@ -44,6 +44,9 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
+    </td>
   </tr>
 </table>
 
