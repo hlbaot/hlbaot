@@ -130,15 +130,13 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 296.8 kB Used in GitHub's Storage 
  > 
-> 🏆 528 Contributions in the Year 2026
+> 🏆 538 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -149,21 +147,21 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                388 commits         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-🌆 Daytime                401 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌃 Evening                758 commits         ████████████░░░░░░░░░░░░░   48.16 % 
-🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+🌞 Morning                400 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌆 Daytime                401 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+🌃 Evening                758 commits         ████████████░░░░░░░░░░░░░   47.79 % 
+🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Tuesday                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Wednesday                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Friday                   373 commits         ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Saturday                 237 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Sunday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Tuesday                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Wednesday                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Friday                   373 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Saturday                 249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Sunday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 ```
 
 
@@ -173,22 +171,46 @@ Sunday                   165 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.36 % 
+SCSS                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          3 hrs 36 mins       ████████████████████░░░░░   80.41 % 
+Codex Vscode             52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+qtm                      4 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 29 mins (99.91%)
+
+✍️ 960 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 565,666 Input Tokens, 45,781 Output Tokens
+
+💵 $14.81 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 92 AI Prompts
+
+Gemini                   1,335 lines         ███████████████████░░░░░░   74.83 % 
+GPT                      267 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Sonnet                   182 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,511 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
