@@ -130,11 +130,15 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 296.8 kB Used in GitHub's Storage 
+> 📦 296.9 kB Used in GitHub's Storage 
  > 
 > 🏆 538 Contributions in the Year 2026
  > 
@@ -171,46 +175,45 @@ Sunday                   165 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.36 % 
-SCSS                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               3 hrs               ███████████████████░░░░░░   77.87 % 
+Python                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+SCSS                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 36 mins       ████████████████████░░░░░   80.41 % 
-Codex Vscode             52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Antigravity IDE          2 hrs 59 mins       ███████████████████░░░░░░   77.23 % 
+Codex Vscode             52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
 
 🐱‍💻 Projects: 
-qtm                      4 hrs 29 mins       █████████████████████████   100.00 % 
+qtm                      3 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (99.91%)
+⏱ AI Coding Time: 3 hrs 50 mins (99.22%)
 
-✍️ 960 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 482 lines written by AI, 10 lines written by hand (97.97% AI-written)
 
 🔤 565,666 Input Tokens, 45,781 Output Tokens
 
 💵 $14.81 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 92 AI Prompts
+🧠 8 AI Sessions, 72 AI Prompts
 
-Gemini                   1,335 lines         ███████████████████░░░░░░   74.83 % 
-GPT                      267 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Sonnet                   182 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Gemini                   376 lines           ███████████░░░░░░░░░░░░░░   45.58 % 
+GPT                      267 lines           ████████░░░░░░░░░░░░░░░░░   32.36 % 
+Sonnet                   182 lines           ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,511 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.97% of written lines came from AI
+📚 Verbose Prompter — average 1,898 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 1.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
