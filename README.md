@@ -191,31 +191,6 @@ qtm                      3 hrs 52 mins       ███████████�
 Mac                      3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 50 mins (99.22%)
-
-✍️ 482 lines written by AI, 10 lines written by hand (97.97% AI-written)
-
-🔤 565,666 Input Tokens, 45,781 Output Tokens
-
-💵 $14.81 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 72 AI Prompts
-
-Gemini                   376 lines           ███████████░░░░░░░░░░░░░░   45.58 % 
-GPT                      267 lines           ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Sonnet                   182 lines           ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.97% of written lines came from AI
-📚 Verbose Prompter — average 1,898 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.32% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
