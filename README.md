@@ -175,20 +175,18 @@ Sunday                   165 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 36 mins       ███████████████████░░░░░░   76.53 % 
-Python                   45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript               2 hrs 3 mins        ████████████████████████░   97.94 % 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 31 mins       ███████████████████░░░░░░   74.10 % 
-Codex Vscode             52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Antigravity IDE          2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qtm                      3 hrs 24 mins       █████████████████████████   100.00 % 
+qtm                      2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
