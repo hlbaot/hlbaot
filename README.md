@@ -134,7 +134,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
