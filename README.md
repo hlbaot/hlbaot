@@ -130,9 +130,9 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue?style=flat)
 
@@ -175,18 +175,22 @@ Sunday                   165 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 3 mins        ████████████████████████░   97.94 % 
-SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               2 hrs 3 mins        ███████████████████████░░   91.06 % 
+Kotlin                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 6 mins        █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qtm                      2 hrs 6 mins        █████████████████████████   100.00 % 
+qtm                      2 hrs 6 mins        ███████████████████████░░   92.97 % 
+flutter                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+insurance_app            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
