@@ -175,22 +175,21 @@ Sunday                   165 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 3 mins        ███████████████████████░░   91.06 % 
-Kotlin                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript               1 hr 32 mins        ██████████████████████░░░   88.59 % 
+Kotlin                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+SCSS                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 15 mins       █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qtm                      2 hrs 6 mins        ███████████████████████░░   92.97 % 
-flutter                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-insurance_app            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+qtm                      1 hr 34 mins        ███████████████████████░░   90.84 % 
+flutter                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+insurance_app            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
