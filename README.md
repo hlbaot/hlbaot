@@ -140,32 +140,32 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 > 📦 296.9 kB Used in GitHub's Storage 
  > 
-> 🏆 540 Contributions in the Year 2026
+> 🏆 543 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                402 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-🌆 Daytime                401 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-🌃 Evening                758 commits         ████████████░░░░░░░░░░░░░   47.73 % 
+🌞 Morning                402 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+🌆 Daytime                401 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌃 Evening                760 commits         ████████████░░░░░░░░░░░░░   47.80 % 
 🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Tuesday                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Friday                   373 commits         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-Saturday                 249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Sunday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Monday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Tuesday                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Wednesday                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Friday                   373 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Saturday                 249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 ```
 
 
@@ -175,31 +175,29 @@ Sunday                   165 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 32 mins        ██████████████████████░░░   88.59 % 
-Kotlin                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-SCSS                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Kotlin                   6 mins              ██████████████████░░░░░░░   70.05 % 
+Dart                     2 mins              ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 44 mins        █████████████████████████   100.00 % 
+Antigravity IDE          9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qtm                      1 hr 34 mins        ███████████████████████░░   90.84 % 
-flutter                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-insurance_app            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+flutter                  6 mins              ████████████████░░░░░░░░░   64.48 % 
+insurance_app            3 mins              █████████░░░░░░░░░░░░░░░░   35.52 % 
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            █████████████░░░░░░░░░░░░   53.33 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+TypeScript               25 repos            ██████████████░░░░░░░░░░░   54.35 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
