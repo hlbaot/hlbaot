@@ -130,17 +130,17 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 296.9 kB Used in GitHub's Storage 
+> 📦 297.3 kB Used in GitHub's Storage 
  > 
-> 🏆 543 Contributions in the Year 2026
+> 🏆 554 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,21 +151,21 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                402 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-🌆 Daytime                401 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌃 Evening                760 commits         ████████████░░░░░░░░░░░░░   47.80 % 
-🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+🌞 Morning                446 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+🌆 Daytime                433 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+🌃 Evening                800 commits         ████████████░░░░░░░░░░░░░   46.89 % 
+🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Tuesday                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Wednesday                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Friday                   373 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Saturday                 249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Monday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Tuesday                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   389 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Sunday                   169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 ```
 
 
@@ -175,19 +175,22 @@ Sunday                   167 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Kotlin                   6 mins              ██████████████████░░░░░░░   70.05 % 
-Dart                     2 mins              ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TypeScript               1 hr 9 mins         ██████████████████████░░░   87.23 % 
+Kotlin                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Antigravity IDE          9 mins              █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter                  6 mins              ████████████████░░░░░░░░░   64.48 % 
-insurance_app            3 mins              █████████░░░░░░░░░░░░░░░░   35.52 % 
+apag_ph                  1 hr 9 mins         ██████████████████████░░░   87.85 % 
+flutter                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+insurance_app            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
