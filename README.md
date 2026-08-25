@@ -130,9 +130,9 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue?style=flat)
 
@@ -140,11 +140,11 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 > 📦 297.3 kB Used in GitHub's Storage 
  > 
-> 🏆 554 Contributions in the Year 2026
+> 🏆 555 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -175,22 +175,23 @@ Sunday                   169 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ██████████████████████░░░   87.23 % 
-Kotlin                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               1 hr 43 mins        ███████████████████████░░   90.40 % 
+Kotlin                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 19 mins        █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 54 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  1 hr 9 mins         ██████████████████████░░░   87.85 % 
-flutter                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-insurance_app            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+apag_ph                  1 hr 42 mins        ██████████████████████░░░   89.36 % 
+flutter                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+insurance_app            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+qtm                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
