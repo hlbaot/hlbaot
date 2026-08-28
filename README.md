@@ -134,7 +134,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -175,23 +175,20 @@ Sunday                   169 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 57 mins        ███████████████████████░░   91.45 % 
-Kotlin                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               2 hrs 5 mins        █████████████████████████   98.84 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 8 mins        █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  1 hr 56 mins        ███████████████████████░░   90.53 % 
-flutter                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-insurance_app            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-qtm                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+apag_ph                  2 hrs 4 mins        ████████████████████████░   97.90 % 
+qtm                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+insurance_app            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
