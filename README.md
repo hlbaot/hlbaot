@@ -175,17 +175,15 @@ Sunday                   169 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        █████████████████████████   98.84 % 
+TypeScript               2 hrs 5 mins        █████████████████████████   98.91 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
 Antigravity IDE          2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  2 hrs 4 mins        ████████████████████████░   97.90 % 
+apag_ph                  2 hrs 4 mins        ████████████████████████░   97.97 % 
 qtm                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-insurance_app            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
 Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
