@@ -138,9 +138,9 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 **🐱 My GitHub Data** 
 
-> 📦 297.3 kB Used in GitHub's Storage 
+> 📦 298.5 kB Used in GitHub's Storage 
  > 
-> 🏆 555 Contributions in the Year 2026
+> 🏆 558 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,21 +151,21 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                446 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-🌆 Daytime                433 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-🌃 Evening                800 commits         ████████████░░░░░░░░░░░░░   46.89 % 
+🌞 Morning                449 commits         ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+🌆 Daytime                433 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+🌃 Evening                800 commits         ████████████░░░░░░░░░░░░░   46.81 % 
 🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Tuesday                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Friday                   389 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Sunday                   169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Monday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Tuesday                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Friday                   389 commits         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Sunday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 ```
 
 
@@ -175,18 +175,21 @@ Sunday                   169 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        █████████████████████████   98.91 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               2 hrs               ███████████████████████░░   92.67 % 
+SCSS                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 7 mins        █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  2 hrs 4 mins        ████████████████████████░   97.97 % 
-qtm                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+apag_ph                  2 hrs 7 mins        █████████████████████████   98.02 % 
+qtm                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
