@@ -130,9 +130,9 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -175,21 +175,21 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 37 mins       █████████████████████░░░░   82.57 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TSConfig                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TypeScript               4 hrs 2 mins        ██████████████████░░░░░░░   73.31 % 
+Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+TSConfig                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 23 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  4 hrs 3 mins        ███████████████████████░░   92.21 % 
-UniDataLake_AI           20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+apag_ph                  5 hrs 10 mins       ███████████████████████░░   93.80 % 
+UniDataLake_AI           20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
