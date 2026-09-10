@@ -134,7 +134,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -175,21 +175,21 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 45 mins       ███████████████████░░░░░░   76.74 % 
-Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               3 hrs 4 mins        ███████████████████░░░░░░   74.53 % 
+Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 54 mins       █████████████████████████   100.00 % 
+Antigravity IDE          4 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  4 hrs 33 mins       ███████████████████████░░   93.02 % 
-UniDataLake_AI           20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+apag_ph                  3 hrs 51 mins       ███████████████████████░░   93.24 % 
+UniDataLake_AI           16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 💻 Operating System: 
-Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
