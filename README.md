@@ -130,11 +130,11 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -175,21 +175,21 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 34 mins       █████████████████░░░░░░░░   68.62 % 
-Other                    42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Java                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               1 hr 35 mins        ██████████████░░░░░░░░░░░   57.44 % 
+Other                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 12 mins       █████████████████████░░░░   85.30 % 
-CLI                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Antigravity IDE          2 hrs 13 mins       ████████████████████░░░░░   80.06 % 
+CLI                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 
 🐱‍💻 Projects: 
-apag_ph                  3 hrs 45 mins       █████████████████████████   100.00 % 
+apag_ph                  2 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
