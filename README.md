@@ -134,13 +134,13 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 304.8 kB Used in GitHub's Storage 
  > 
-> 🏆 557 Contributions in the Year 2026
+> 🏆 549 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,21 +151,21 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                452 commits         ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-🌆 Daytime                434 commits         ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-🌃 Evening                798 commits         ████████████░░░░░░░░░░░░░   46.64 % 
-🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+🌞 Morning                440 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌆 Daytime                433 commits         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+🌃 Evening                797 commits         ████████████░░░░░░░░░░░░░   46.97 % 
+🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Tuesday                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Thursday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Friday                   391 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Monday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Tuesday                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Friday                   389 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 ```
 
 
@@ -175,21 +175,22 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        ██████████████░░░░░░░░░░░   55.30 % 
-Other                    42 mins             ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Java                     25 mins             ██████████░░░░░░░░░░░░░░░   38.71 % 
+XML                      24 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
+TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 5 mins        ████████████████████░░░░░   79.05 % 
-CLI                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+CLI                      49 mins             ███████████████████░░░░░░   76.21 % 
+Antigravity IDE          15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
 
 🐱‍💻 Projects: 
-apag_ph                  2 hrs 38 mins       █████████████████████████   100.00 % 
+apag_ph                  1 hr                ███████████████████████░░   93.21 % 
+Desktop                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 💻 Operating System: 
-Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
