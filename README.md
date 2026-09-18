@@ -134,7 +134,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -175,17 +175,24 @@ Sunday                   165 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     24 mins             ███████████████████░░░░░░   74.35 % 
-TypeScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+TypeScript               2 hrs               ████████████░░░░░░░░░░░░░   48.47 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Java                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+SCSS                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Java Properties          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🔥 Editors: 
-CLI                      33 mins             █████████████████████████   100.00 % 
+Antigravity IDE          4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  33 mins             █████████████████████████   100.00 % 
+apag_ph                  3 hrs 40 mins       ██████████████████████░░░   88.44 % 
+todo-fe                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+UniDataLake_AI           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+todo-be                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
