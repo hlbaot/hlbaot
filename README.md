@@ -175,21 +175,20 @@ Sunday                   167 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 24 mins       ████████████████████████░   94.60 % 
-Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               44 mins             ███████████████████████░░   92.18 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 32 mins       █████████████████████████   100.00 % 
+Antigravity IDE          47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  2 hrs 27 mins       ████████████████████████░   96.15 % 
-qtm                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+apag_ph                  41 mins             ██████████████████████░░░   87.69 % 
+qtm                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
