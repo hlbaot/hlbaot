@@ -134,7 +134,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -175,20 +175,18 @@ Sunday                   167 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               44 mins             ███████████████████████░░   92.18 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               5 mins              ███████████████████████░░   93.94 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Antigravity IDE          47 mins             █████████████████████████   100.00 % 
+Antigravity IDE          5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apag_ph                  41 mins             ██████████████████████░░░   87.69 % 
-qtm                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+qtm                      5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
