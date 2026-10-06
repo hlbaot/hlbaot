@@ -130,17 +130,17 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 309.1 kB Used in GitHub's Storage 
  > 
-> 🏆 574 Contributions in the Year 2026
+> 🏆 575 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,21 +151,21 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                611 commits         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-🌆 Daytime                589 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-🌃 Evening                951 commits         ███████████░░░░░░░░░░░░░░   43.66 % 
+🌞 Morning                615 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌆 Daytime                593 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+🌃 Evening                951 commits         ███████████░░░░░░░░░░░░░░   43.50 % 
 🌙 Night                  27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Tuesday                  371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Wednesday                268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Thursday                 273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Friday                   489 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Saturday                 376 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Sunday                   167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Monday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Tuesday                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Wednesday                268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Thursday                 273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Friday                   493 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Saturday                 376 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Sunday                   167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 
 
@@ -175,23 +175,23 @@ Sunday                   167 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     2 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.54 % 
-TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Java Properties          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Java                     2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
+TypeScript               2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Java Properties          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 1 min         █████████████████████████   100.00 % 
+Antigravity IDE          6 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-manageRoom               2 hrs 53 mins       ██████████████░░░░░░░░░░░   57.68 % 
-todo                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-UniDataLake_AI           50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-qtm                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+manageRoom               2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.28 % 
+UniDataLake_AI           2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.61 % 
+todo                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+qtm                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 💻 Operating System: 
-Mac                      5 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
