@@ -130,11 +130,11 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -175,23 +175,22 @@ Sunday                   167 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
-TypeScript               2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Java Properties          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Java                     2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
+TypeScript               1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Java Properties          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 41 mins       █████████████████████████   100.00 % 
+Antigravity IDE          6 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-manageRoom               2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.28 % 
-UniDataLake_AI           2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.61 % 
-todo                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-qtm                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+manageRoom               2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.62 % 
+UniDataLake_AI           2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
+todo                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 
 💻 Operating System: 
-Mac                      6 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
