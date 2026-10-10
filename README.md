@@ -134,7 +134,7 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -175,32 +175,31 @@ Sunday                   167 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.77 % 
-TypeScript               1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.04 % 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+TypeScript               1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   35.86 % 
+Java                     1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   34.07 % 
+Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs               █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UniDataLake_AI           2 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.83 % 
-manageRoom               2 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.26 % 
-todo                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+UniDataLake_AI           2 hrs 55 mins       ██████████████░░░░░░░░░░░   54.50 % 
+manageRoom               2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.50 % 
 
 💻 Operating System: 
-Mac                      6 hrs               █████████████████████████   100.00 % 
+Mac                      5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               25 repos            █████████████░░░░░░░░░░░░   52.08 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               26 repos            █████████████░░░░░░░░░░░░   53.06 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
