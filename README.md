@@ -130,17 +130,17 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 359.6 kB Used in GitHub's Storage 
+> 📦 360.2 kB Used in GitHub's Storage 
  > 
-> 🏆 610 Contributions in the Year 2026
+> 🏆 616 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,21 +151,21 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                634 commits         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-🌆 Daytime                618 commits         ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-🌃 Evening                964 commits         ███████████░░░░░░░░░░░░░░   42.94 % 
+🌞 Morning                637 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+🌆 Daytime                619 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+🌃 Evening                966 commits         ███████████░░░░░░░░░░░░░░   42.91 % 
 🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Tuesday                  382 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Thursday                 278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Friday                   516 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Saturday                 376 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Sunday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Monday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Tuesday                  382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Wednesday                281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Thursday                 278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Friday                   516 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Saturday                 382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Sunday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 
 
@@ -175,25 +175,25 @@ Sunday                   172 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               13 hrs 3 mins       █████████████████░░░░░░░░   68.77 % 
-Bash                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-CSS                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-SCSS                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               13 hrs 5 mins       ██████████████░░░░░░░░░░░   57.53 % 
+Bash                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Other                    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+CSS                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 59 mins      ██████████████████░░░░░░░   73.67 % 
-Codex Vscode             4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Antigravity IDE          15 hrs 49 mins      █████████████████░░░░░░░░   69.60 % 
+Codex Vscode             6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.40 % 
 
 🐱‍💻 Projects: 
-sqrt-fund                9 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.42 % 
-vote-destination         6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
-SqrtFund                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-van-hoc                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-vote_destination         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+sqrt-fund                11 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.20 % 
+vote-destination         6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+SqrtFund                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+van-hoc                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+vote_destination         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 💻 Operating System: 
-Mac                      18 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
