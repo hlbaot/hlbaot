@@ -130,42 +130,42 @@ I'm a Software Engineering student at Duy Tan University with a strong foundatio
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 360.1 kB Used in GitHub's Storage 
+> 📦 361.0 kB Used in GitHub's Storage 
  > 
-> 🏆 683 Contributions in the Year 2026
+> 🏆 710 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                742 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌆 Daytime                683 commits         ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-🌃 Evening                1063 commits        ██████████░░░░░░░░░░░░░░░   41.97 % 
-🌙 Night                  45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+🌞 Morning                810 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+🌆 Daytime                727 commits         ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+🌃 Evening                1119 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
+🌙 Night                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   246 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Tuesday                  404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Wednesday                354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Thursday                 373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   538 commits         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Saturday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Sunday                   212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Monday                   246 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Tuesday                  410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                388 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Thursday                 434 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Friday                   585 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Saturday                 421 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Sunday                   228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
 
@@ -175,35 +175,36 @@ Sunday                   212 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               8 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.96 % 
-Bash                     4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Other                    3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-SQL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript               8 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.15 % 
+Bash                     4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Other                    2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 31 mins      █████████████████░░░░░░░░   68.66 % 
-Codex Vscode             6 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Antigravity IDE          12 hrs 8 mins       ████████████████░░░░░░░░░   65.61 % 
+Codex Vscode             6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-SqrtFund                 11 hrs 1 min        ██████████████░░░░░░░░░░░   55.97 % 
-sqrt-fund                3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-UniDataLake_AI           2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-van-hoc                  2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-manageRoom               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+SqrtFund                 10 hrs 33 mins      ██████████████░░░░░░░░░░░   57.03 % 
+UniDataLake_AI           2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+van-hoc                  2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+sqrt-fund                1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+e-card                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 💻 Operating System: 
-Mac                      19 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            █████████████░░░░░░░░░░░░   52.94 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               28 repos            █████████████░░░░░░░░░░░░   53.85 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
