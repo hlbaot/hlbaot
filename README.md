@@ -10,12 +10,15 @@
 </h3>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-I'm a Software Engineering student at Duy Tan University with a strong foundation in Frontend Development, skilled in modern web and mobile technologies such as React, Next.js, Vue, Swift, and Dart. I enjoy building responsive, high-performance, user-friendly applications with a focus on UI/UX and scalable architecture. I love to explore new technologies and constantly improve my skills in full-stack development.
+I'm a Software Engineering student at Duy Tan University with a focus on Frontend Development and hands-on experience in freelance web development. I've worked on landing pages and websites for small businesses, building responsive, functional, and user-friendly web applications that meet client needs.
 
-- 🎓 Software Engineering student at Duy Tan University (2023 - 2027)
-- 💻 Skilled in: C++, Java, C#, JavaScript, React, Next.js, Vue, Swift, Dart, MySQL
-- 🌱 Currently improving my full-stack and performance optimization skills
-- 💬 Ask me about React/Next.js, Vue, UI/UX, iOS and Android app development
+I'm passionate about exploring modern technologies, developing full-stack web applications, and expanding my skills in mobile development for both iOS and Android. I'm continuously learning and improving my knowledge of backend development, system architecture, and application performance optimization.
+
+- 🎓 **Education:** Software Engineering student at Duy Tan University (2023–2027)
+- 💼 **Freelance Web Developer:** Experience building landing pages, business websites, and web applications for small businesses
+- 💻 **Tech Stack:** C++, Java, C#, JavaScript, React, Next.js, Vue, Swift, Dart, MySQL
+- 🌱 **Currently Learning:** Full-stack Development, Mobile App Development (iOS & Android), Backend Development, and Performance Optimization
+- 💬 **Ask Me About:** React, Next.js, Vue, Web Development, and Mobile App Development
 
 <br clear="right"/>
 <br>
