@@ -53,7 +53,8 @@ I'm passionate about exploring modern technologies, developing full-stack web ap
   </tr>
 </table>
 
-<h4>🎨 Frontend</h4>
+
+<h4>🌐 Web Development</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -77,8 +78,15 @@ I'm passionate about exploring modern technologies, developing full-stack web ap
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="MUI" /><br>MUI
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" /><br>Spring Boot
+    </td>
   </tr>
 </table>
+
 <p>
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
