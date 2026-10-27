@@ -141,17 +141,17 @@ I'm passionate about exploring modern technologies, developing full-stack web ap
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hlbaot/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 362.0 kB Used in GitHub's Storage 
+> 📦 363.1 kB Used in GitHub's Storage 
  > 
-> 🏆 806 Contributions in the Year 2026
+> 🏆 855 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -162,21 +162,21 @@ I'm passionate about exploring modern technologies, developing full-stack web ap
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                943 commits         ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-🌆 Daytime                859 commits         ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-🌃 Evening                1293 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
-🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+🌞 Morning                1065 commits        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+🌆 Daytime                1003 commits        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+🌃 Evening                1414 commits        ██████████░░░░░░░░░░░░░░░   39.42 % 
+🌙 Night                  105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   313 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Tuesday                  422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Wednesday                439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Thursday                 521 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Friday                   643 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Saturday                 505 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Sunday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Monday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Tuesday                  540 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Wednesday                473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Thursday                 579 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Friday                   681 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Saturday                 545 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Sunday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 
@@ -186,25 +186,24 @@ Sunday                   336 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               10 hrs 23 mins      ███████████████░░░░░░░░░░   61.85 % 
-Bash                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-CSS                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+TypeScript               10 hrs 26 mins      ████████████████░░░░░░░░░   63.20 % 
+Bash                     2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+CSS                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 3 mins        █████████████░░░░░░░░░░░░   53.84 % 
-Codex Vscode             7 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.02 % 
+Codex Vscode             8 hrs 30 mins       █████████████░░░░░░░░░░░░   51.50 % 
+Antigravity IDE          7 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.35 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-SqrtFund                 10 hrs 28 mins      ████████████████░░░░░░░░░   62.26 % 
-e-card                   4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-van-hoc                  1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-UniDataLake_AI           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+SqrtFund                 10 hrs 25 mins      ████████████████░░░░░░░░░   63.12 % 
+e-card                   5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
+UniDataLake_AI           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 Operating System: 
-Mac                      16 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
